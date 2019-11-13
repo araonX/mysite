@@ -6,4 +6,4 @@ it's a lincese file.
 add some one line.
 add some two line.
 test git checkout -- file.
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple
