@@ -1,4 +1,5 @@
 #!/bin/bash
 rm txt
 rm dev
-Bob & dev add something.
+Bob add something.
+bob is doing something.
